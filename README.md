@@ -9,7 +9,7 @@ This paper explores an AI-based diagnostic application to monitor and detect dis
 This project introduces a novel dataset and a suite of CNN models to assist in identifying and classifying coffee leaf diseases, including Phoma, Rust, Miner and Cercospora. The models tested include:
 
 - YOLOv8
-- YOLOv11
+- YOLO11
 - MobileNet
 - ResNet50
 - InceptionV3
